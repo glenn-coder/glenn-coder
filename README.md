@@ -1,4 +1,4 @@
-# Hi 👋, I'm Glenn Helit
+# Hi 👋, I'm Glenn 
 
 ### Also known as **glenn-coder**
 
